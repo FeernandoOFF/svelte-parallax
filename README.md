@@ -23,3 +23,5 @@ Core concepts:
 - Make big changes based on smaller but keep the proportions. ie - change from 0.5 to 0.6 and make it smaller/bigger in that proportion (probably `onProgress`)
 
 - Change `layout` of `sticky` based on the progress
+
+![](./static/result.gif)
